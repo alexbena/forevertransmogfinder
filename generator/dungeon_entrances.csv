@@ -1,0 +1,29 @@
+map_id,name,ui_map,x,y,source
+33,Shadowfang Keep,1421,44.7,67.8,client Map corpse point
+34,Stormwind Stockade,1429,19.8,35.5,client Map corpse point
+36,Deadmines,1436,38.2,77.5,client Map corpse point
+43,Wailing Caverns,1413,47.7,35.0,client Map corpse point
+47,Razorfen Kraul,1413,42.3,89.9,client Map corpse point
+48,Blackfathom Deeps,1440,16.5,11.0,client Map corpse point
+70,Uldaman,1418,35.2,10.3,client Map corpse point
+90,Gnomeregan,1426,17.7,39.2,client Map corpse point
+109,Sunken Temple,1435,77.3,35.9,client Map corpse point
+129,Razorfen Downs,1413,50.9,92.9,client Map corpse point
+189,Scarlet Monastery,1420,85.1,31.4,client Map corpse point
+209,Zul'Farrak,1446,38.7,19.9,client Map corpse point
+229,Blackrock Spire,1428,33.0,25.2,client Map corpse point
+230,Blackrock Depths,1427,27.1,72.5,client Map corpse point
+249,Onyxia's Lair,1441,75.4,26.8,client Map corpse point
+289,Scholomance,1422,69.1,73.0,client Map corpse point
+309,Zul'Gurub,1434,54.0,17.6,client Map corpse point
+329,Stratholme,1423,26.1,10.4,client Map corpse point
+349,Maraudon,1443,29.1,62.9,client Map corpse point
+389,Ragefire Chasm,1454,53.0,48.9,client Map corpse point
+409,Molten Core,1428,26.3,24.6,client Map corpse point
+429,Dire Maul,1444,62.0,33.3,client Map corpse point
+469,Blackwing Lair,1428,32.5,32.4,client Map corpse point
+509,Ruins of Ahn'Qiraj,1451,29.0,92.8,client Map corpse point
+531,Ahn'Qiraj Temple,1451,29.0,92.7,client Map corpse point
+533,Naxxramas,,,,none in client data (no Map corpse point)
+2959,City of Dalaran,,,,none in client data (no Map corpse point)
+2998,Excavation Site: Wetlands,,,,none in client data (no Map corpse point)

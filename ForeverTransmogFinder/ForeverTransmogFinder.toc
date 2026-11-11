@@ -1,0 +1,22 @@
+## Interface: 16001
+## Title: Forever Transmog Finder
+## Notes: Every transmog appearance on WoW Forever and where to get it: what you are missing, per zone and per dungeon, with a tooltip line, a preview and a wishlist. /ftf
+## Author: Gitano Calvo
+## Version: 0.3.1
+## Category: Collections
+## IconTexture: Interface\AddOns\ForeverTransmogFinder\Media\icon-64
+## AddonCompartmentFunc: ForeverTransmogFinder_OnAddonCompartmentClick
+## SavedVariables: ForeverTransmogFinderDB
+## OptionalDeps: ForeverPath
+## X-License: GPL-3.0-or-later
+
+Core.lua
+Data.lua
+Mog.lua
+List.lua
+Tooltip.lua
+Notices.lua
+UI.lua
+Preview.lua
+Minimap.lua
+Options.lua

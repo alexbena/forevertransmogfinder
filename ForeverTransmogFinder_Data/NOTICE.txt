@@ -1,0 +1,2 @@
+Forever Transmog Finder - Copyright (C) 2026 Gitano Calvo. Free software under the GNU GPL version 3 or later (see LICENSE.txt); it comes with no warranty.
+ForeverTransmogFinder_Data includes drop, quest and vendor data derived from QuestieDB (https://github.com/Questie/QuestieDB, GPL-3.0), modified by Gitano Calvo on 2026-11-11; source and data tools: https://github.com/alexbena/forevertransmogfinder.

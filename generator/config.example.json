@@ -1,0 +1,15 @@
+{
+  "build": "1.60.1.70862",
+  "wago_dir": "inputs/wago-1.60.1.70862",
+  "dbd_dir": "inputs/dbd",
+  "dbcache": "inputs/client/DBCache.bin",
+  "questcache": [
+    "inputs/client/questcache.wdb"
+  ],
+  "questie_dir": "inputs/questiedb-forever",
+  "entrances": "dungeon_entrances.csv",
+  "out_dir": "out/ForeverTransmogFinder_Data",
+  "license_file": "../LICENSE.txt",
+  "notice_file": "../NOTICE.txt",
+  "version": "0.3.1"
+}

@@ -1,0 +1,9 @@
+# Local settings and inputs: never committed
+config.json
+inputs/
+out/
+*.part
+__pycache__/
+*.pyc
+# Generated item CSV (--csv)
+mog_items*.csv

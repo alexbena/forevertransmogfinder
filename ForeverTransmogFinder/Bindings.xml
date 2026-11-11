@@ -1,0 +1,4 @@
+<Bindings>
+	<Binding name="FOREVERTRANSMOGFINDER_TOGGLE" header="FOREVERTRANSMOGFINDER" category="ADDONS">ForeverTransmogFinder_ToggleWindow()</Binding>
+	<Binding name="FOREVERTRANSMOGFINDER_HERE" category="ADDONS">ForeverTransmogFinder_OpenHere()</Binding>
+</Bindings>

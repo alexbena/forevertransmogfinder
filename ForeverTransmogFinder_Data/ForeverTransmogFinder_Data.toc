@@ -1,0 +1,17 @@
+## Interface: 16001
+## Title: Forever Transmog Finder Data
+## Notes: The item list for Forever Transmog Finder (loaded on demand).
+## Author: Gitano Calvo
+## Version: 0.3.1
+## Group: ForeverTransmogFinder
+## Category: Collections
+## IconTexture: Interface\AddOns\ForeverTransmogFinder\Media\icon-64
+## Dependencies: ForeverTransmogFinder
+## LoadOnDemand: 1
+## X-License: GPL-3.0-or-later
+
+Places.lua
+Items1.lua
+Items2.lua
+Sources1.lua
+Sources2.lua

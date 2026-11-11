@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <title>Forever Transmog Finder icon</title>
+  <defs>
+    <radialGradient id="field" cx="200" cy="170" r="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4A3596"/>
+      <stop offset="0.6" stop-color="#30226A"/>
+      <stop offset="1" stop-color="#1A1438"/>
+    </radialGradient>
+    <linearGradient id="lit" x1="0" y1="70" x2="0" y2="336" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A6FFF4"/>
+      <stop offset="0.42" stop-color="#3EDCD8"/>
+      <stop offset="1" stop-color="#B9A2FF"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+    <clipPath id="leftHalf"><rect x="0" y="0" width="200" height="400"/></clipPath>
+    <clipPath id="rightHalf"><rect x="200" y="0" width="200" height="400"/></clipPath>
+    <clipPath id="seamClip">
+      <path clip-rule="evenodd" d="M200 64 C216 78 256 90 258 132 L260 174 L270 198 L228 212 L200 215 L172 212 L130 198 L140 174 L142 132 C144 90 184 78 200 64 Z M152 132 L248 132 L244 148 L208 148 L208 202 L192 202 L192 148 L156 148 Z"/>
+      <path d="M200 226 L230 228 C250 242 264 262 272 290 L200 336 L128 290 C136 262 150 242 170 228 Z"/>
+    </clipPath>
+    <g id="bust">
+      <path fill-rule="evenodd" d="M200 64 C216 78 256 90 258 132 L260 174 L270 198 L228 212 L200 215 L172 212 L130 198 L140 174 L142 132 C144 90 184 78 200 64 Z M152 132 L248 132 L244 148 L208 148 L208 202 L192 202 L192 148 L156 148 Z"/>
+      <path d="M242 228 C254 212 274 204 294 207 C313 210 320 230 320 252 L320 268 C306 266 292 272 281 282 C275 260 262 242 242 228 Z"/>
+      <path d="M158 228 C146 212 126 204 106 207 C87 210 80 230 80 252 L80 268 C94 266 108 272 119 282 C125 260 138 242 158 228 Z"/>
+      <path d="M200 226 L230 228 C250 242 264 262 272 290 L200 336 L128 290 C136 262 150 242 170 228 Z"/>
+    </g>
+  </defs>
+  <rect x="0" y="0" width="400" height="400" fill="url(#field)"/>
+  <g transform="translate(200 210) scale(1.3) translate(-200 -200)">
+    <g clip-path="url(#rightHalf)">
+      <use href="#bust" fill="#4FE6DA" opacity="0.85" filter="url(#glow)"/>
+    </g>
+    <g clip-path="url(#leftHalf)">
+      <use href="#bust" fill="#0C0C14" stroke="#6A55C8" stroke-width="7" stroke-linejoin="round"/>
+    </g>
+    <g clip-path="url(#rightHalf)">
+      <use href="#bust" fill="url(#lit)"/>
+    </g>
+    <g clip-path="url(#seamClip)">
+      <rect x="197" y="60" width="6" height="280" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>
